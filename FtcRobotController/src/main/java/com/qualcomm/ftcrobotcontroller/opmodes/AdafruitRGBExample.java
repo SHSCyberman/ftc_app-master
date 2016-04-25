@@ -1,4 +1,4 @@
-/* Copyright (c) 2015 Qualcomm Technologies Inc
+/* edit by ryan for shoiwng ppl stuff Copyright (c) 2015 Qualcomm Technologies Inc
 
 All rights reserved.
 
